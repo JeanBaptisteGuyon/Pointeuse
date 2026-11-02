@@ -2,6 +2,7 @@
   "name": "Pointage Terminal",
   "short_name": "Pointage",
   "description": "Suivi du temps de travail de deux emplois, style terminal.",
+  "id": "Pointeuse",
   "lang": "fr",
   "start_url": "./",
   "scope": "./",
